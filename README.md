@@ -2,7 +2,7 @@
   <a href="http://vnlab.filmschool.lodz.pl/">
     <img alt="Gatsby" src="src/images/vnLab-icon.png" />
   </a>
-</p>
+</p>dadadadasdadasdasdads
 <h1 align="center">
   Publication-as-a-Website Basic Starter
 </h1>

@@ -1,8 +1,8 @@
 <p align="center">
   <a href="http://vnlab.filmschool.lodz.pl/">
-    <img alt="Gatsby" src="src/images/vnLab-icon.png" />jestem klesczem
+    <img alt="Gatsby" src="src/images/vnLab-icon.png" />
   </a>
-</p>dadadadasdadasdasdads
+</p>
 <h1 align="center">
   Publication-as-a-Website Basic Starter
 </h1>
